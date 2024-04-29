@@ -55,7 +55,7 @@ ScrollReveal({
  
 
 var typed = new Typed("#typed", {
-    strings: ['Frontend developer', 'Wordpress developer'],
+    strings: ['Frontend developer', 'Web developer'],
     typeSpeed: 50, // Adjust the typing speed as needed
     backSpeed: 50, // Adjust the backspacing speed as needed
     startDelay: 1000, // Delay before typing starts
